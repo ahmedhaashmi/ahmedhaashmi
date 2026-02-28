@@ -1,4 +1,4 @@
-# Ahmedhaashmi
+# Muhammad Ahmed
 ### Software Engineer • Backend Systems • AI Engineering • Game Development
 
 ---
